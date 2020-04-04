@@ -20,11 +20,11 @@ and odd numbers on the right.
 
 This creates a 39 line structure:
 
-Verse 1:  123456
-Verse 2:  615243
-Verse 3:  364125
-Verse 4:  532614
-Verse 5:  451362
+Verse 1:  123456, 
+Verse 2:  615243, 
+Verse 3:  364125, 
+Verse 4:  532614, 
+Verse 5:  451362, 
 Verse 6:  246531
 
 Envoi: 
@@ -34,7 +34,7 @@ Envoi:
 6     1
 
 
-# The sestina builder - What Does It Do?
+# The sestina builder - what does it do?
 
 This builder is a simple spreadsheet that allows the user to start the construction of the poem either from the envoi or from the start of the poem. It means that the architecture of what points they will then need to get to in the composition of the poem become immediately obvious, to help poets avoid potential hiccups in the construction of their poem before they start.
 
